@@ -1,0 +1,1 @@
+/home/priyo/ur_ws/src/ur5_simulation/launch/view_ur5_camera.launch.py

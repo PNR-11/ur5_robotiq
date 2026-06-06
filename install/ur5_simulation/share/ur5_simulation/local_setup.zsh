@@ -1,0 +1,1 @@
+/home/priyo/ur_ws/build/ur5_simulation/ament_cmake_environment_hooks/local_setup.zsh

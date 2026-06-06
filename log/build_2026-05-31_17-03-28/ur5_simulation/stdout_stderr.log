@@ -1,0 +1,52 @@
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found xacro: 2.1.1 (/opt/ros/humble/share/xacro/cmake)
+-- Found rclpy: 3.3.17 (/opt/ros/humble/share/rclpy/cmake)
+-- Found rclcpp: 16.0.15 (/opt/ros/humble/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found trajectory_msgs: 4.9.0 (/opt/ros/humble/share/trajectory_msgs/cmake)
+-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/priyo/ur_ws/build/ur5_simulation
+-- Install configuration: ""
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/launch
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/launch/view_ur5_camera.launch.py
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/urdf
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/urdf/ur5_camera.urdf.xacro
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/urdf/camera.xacro
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/config
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/config/ur5_controllers.yaml
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/meshes
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/meshes/sensors
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/meshes/sensors/camera
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/meshes/sensors/camera/kinetic.png
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/meshes/sensors/camera/kinetic.stl
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/meshes/sensors/camera/kinetic.dae
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/worlds
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/rviz
+-- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ament_index/resource_index/package_run_dependencies/ur5_simulation
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ament_index/resource_index/parent_prefix_path/ur5_simulation
+-- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/environment/ament_prefix_path.sh
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/environment/path.sh
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/environment/path.dsv
+-- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/local_setup.bash
+-- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/local_setup.sh
+-- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/local_setup.zsh
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/local_setup.dsv
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/package.dsv
+-- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ament_index/resource_index/packages/ur5_simulation
+-- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/cmake/ur5_simulationConfig.cmake
+-- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/cmake/ur5_simulationConfig-version.cmake
+-- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/package.xml

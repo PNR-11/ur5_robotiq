@@ -1,0 +1,61 @@
+[0.007s] Invoking command in '/home/priyo/ur_ws/build/ur5_simulation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/priyo/ur_ws/build/ur5_simulation -- -j24 -l24
+[0.063s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.171s] -- Found xacro: 2.1.1 (/opt/ros/humble/share/xacro/cmake)
+[0.172s] -- Found rclpy: 3.3.17 (/opt/ros/humble/share/rclpy/cmake)
+[0.172s] -- Found rclcpp: 16.0.15 (/opt/ros/humble/share/rclcpp/cmake)
+[0.196s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.198s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.203s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.211s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.219s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.241s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.243s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.317s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.375s] -- Found trajectory_msgs: 4.9.0 (/opt/ros/humble/share/trajectory_msgs/cmake)
+[0.392s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.434s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.435s] -- Added test 'lint_cmake' to check CMake code style
+[0.435s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.436s] -- Added test 'xmllint' to check XML markup files
+[0.437s] -- Configuring done
+[0.443s] -- Generating done
+[0.445s] -- Build files have been written to: /home/priyo/ur_ws/build/ur5_simulation
+[0.497s] Invoked command in '/home/priyo/ur_ws/build/ur5_simulation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/priyo/ur_ws/build/ur5_simulation -- -j24 -l24
+[0.503s] Invoking command in '/home/priyo/ur_ws/build/ur5_simulation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/priyo/ur_ws/build/ur5_simulation
+[0.517s] -- Install configuration: ""
+[0.517s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/launch
+[0.517s] -- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/launch/camera_sim.launch.py
+[0.517s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/launch/spawn_ur5_camera.launch.py
+[0.517s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/launch/view_ur5_camera.launch.py
+[0.517s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/urdf
+[0.517s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/urdf/ur5_macro.xacro
+[0.517s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/urdf/ur5_camera.urdf.xacro
+[0.517s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/urdf/camera.xacro
+[0.517s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/urdf/ur5.ros2_control.xacro
+[0.517s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/config
+[0.517s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/config/initial_positions.yaml
+[0.517s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/config/ur5_controllers.yaml
+[0.517s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/meshes
+[0.517s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/meshes/sensors
+[0.517s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/meshes/sensors/camera
+[0.517s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/meshes/sensors/camera/kinetic.png
+[0.518s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/meshes/sensors/camera/kinetic.stl
+[0.518s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/meshes/sensors/camera/kinetic.dae
+[0.518s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/worlds
+[0.518s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/rviz
+[0.518s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ament_index/resource_index/package_run_dependencies/ur5_simulation
+[0.518s] -- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ament_index/resource_index/parent_prefix_path/ur5_simulation
+[0.518s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/environment/ament_prefix_path.sh
+[0.518s] -- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/environment/ament_prefix_path.dsv
+[0.518s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/environment/path.sh
+[0.518s] -- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/environment/path.dsv
+[0.518s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/local_setup.bash
+[0.518s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/local_setup.sh
+[0.518s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/local_setup.zsh
+[0.518s] -- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/local_setup.dsv
+[0.518s] -- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/package.dsv
+[0.518s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ament_index/resource_index/packages/ur5_simulation
+[0.518s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/cmake/ur5_simulationConfig.cmake
+[0.518s] -- Up-to-date: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/cmake/ur5_simulationConfig-version.cmake
+[0.518s] -- Installing: /home/priyo/ur_ws/install/ur5_simulation/share/ur5_simulation/package.xml
+[0.520s] Invoked command in '/home/priyo/ur_ws/build/ur5_simulation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/priyo/ur_ws/build/ur5_simulation
